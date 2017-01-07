@@ -1,0 +1,2 @@
+# YatzyPy
+Yatzy player (AI)
